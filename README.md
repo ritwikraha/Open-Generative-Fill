@@ -35,4 +35,18 @@ This repository is still in its early stage and will require some additional wor
 - Optimization
 
 
+## Citing Generative Fill
+
+If Generative Fill helps your research, we appreciate your citations. Here is the BibTeX entry:
+
+```
+@misc{raha2024generativefill,
+  title={GenerativeFill with Keras and Diffusers},
+  author={Raha, Ritwik and Roy Gosthipaty, Aritra},
+  year={2024},
+  howpublished={\url{https://github.com/ritwikraha/GenerativeFill-with-Keras-and-Diffusers}},
+}
+```
+
+
 
