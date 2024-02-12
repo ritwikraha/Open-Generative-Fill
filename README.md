@@ -1,6 +1,8 @@
-# GenerativeFill-with-Keras-and-Diffusers
+# Open Generative Fill
+
 A repository for hacking Generative Fill with Open Source Tools
 
+![Try out the HF Sapace](https://huggingface.co/spaces/open-gen-fill/open-gen-fill-v1)
 
 ## Text Based Image Editing
 
