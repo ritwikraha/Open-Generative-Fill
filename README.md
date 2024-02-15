@@ -36,6 +36,11 @@ This repository is still in its early stage and will require some additional wor
 - More complex editing tasks than replacement
 - Optimization
 
+## Credits
+
+- (sayakpaul)[https://github.com/sayakpaul] for the amazing advice and ideas
+- (pedrogengo)[https://github.com/pedrogengo] for the replacement caption idea, as illustrated [here](https://github.com/ritwikraha/Open-Generative-Fill/issues/2#issuecomment-1942670904)
+- (rishiraj)[https://github.com/rishiraj] for patiently teaching us about Qwen and small LLMs
 
 ## Citing Generative Fill
 
