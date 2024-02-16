@@ -4,6 +4,8 @@ A repository for hacking Generative Fill with Open Source Tools
 
 [Try out the HF Sapace](https://huggingface.co/spaces/open-gen-fill/open-gen-fill-v1)
 
+[Try out the scripts](https://colab.research.google.com/gist/ariG23498/dc3530eca187cebe664e66b0ff7082b7/scratchpad.ipynb)
+
 ## Text Based Image Editing
 
 Creating an Open Source alternative for GenerativeFill and other editing tools.
@@ -47,8 +49,8 @@ This repository is still in its early stage and will require some additional wor
 If Generative Fill helps your research, we appreciate your citations. Here is the BibTeX entry:
 
 ```
-@misc{raha2024generativefill,
-  title={GenerativeFill with Keras and Diffusers},
+@misc{raha2024opengenerativefill,
+  title={Open Source Generative Fill},
   author={Raha, Ritwik and Roy Gosthipaty, Aritra},
   year={2024},
   howpublished={\url{https://github.com/ritwikraha/GenerativeFill-with-Keras-and-Diffusers}},
