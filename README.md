@@ -1,6 +1,6 @@
 # Open Generative Fill
 
-![YouTube Live Stream](https://www.youtube.com/watch?v=g_4FHoNx0nQ)
+[YouTube Live Stream](https://www.youtube.com/watch?v=g_4FHoNx0nQ)
 
 A repository for hacking Generative Fill with Open Source Tools
 
