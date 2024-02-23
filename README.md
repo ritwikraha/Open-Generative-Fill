@@ -1,5 +1,7 @@
 # Open Generative Fill
 
+![YouTube Live Stream](https://www.youtube.com/watch?v=g_4FHoNx0nQ)
+
 A repository for hacking Generative Fill with Open Source Tools
 
 [Try out the HF Sapace](https://huggingface.co/spaces/open-gen-fill/open-gen-fill-v1)
