@@ -18,25 +18,25 @@ Creating an Open Source alternative for GenerativeFill and other editing tools.
 
 ### How do we propose to do this?
 
-- Accept an `edit_prompt` and an `image` as inputs
-- Pass the `edit_prompt` through a language model to extract source and target entities
+- Accept an `edit_prompt` and an `image` as input
 - Use a Vision Model to `caption` the image
-- Create a `replacement_caption` where the source entity of the original image is swapped with target entity in the `edit_prompt`
-- Use the source entity to create a segmentation mask using Grounding Dino and SAM
+- Pass the `edit_prompt` through a language model to extract the source entity
+- Create a `replacement_caption` where the source entity of the original image is swapped with the target entity in the `edit_prompt`
+- Use the source entity to create a segmentation mask using OWL-VIT and SAM
 - Use the mask and the `replacement_caption` for image inpainting
 
 The pipeline is shown in the figure below:
 
-![Image](https://github.com/PyImageSearch/blog_posts/assets/44690292/fe2eb574-b8bb-4954-b918-c8bf93974b1b)
+![Image](https://i.imgur.com/6xxs6q0.png)
 
 ## TO-DOs
 
-This repository is still in its early stage and will require some additional work.
+This repository is still in its early stages and will require additional work.
 
 - Better Captioning from Vision Model
-- Prompt upsampling using Language Model
+- Prompt upsampling using the Language Model
 - More complex editing tasks than replacement
-- Optimization
+- Optimization of the models and an end-to-end pipeline
 
 ## Credits
 
